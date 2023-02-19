@@ -1,16 +1,17 @@
-# qr_generator
+#qr_scanner
 
-A new Flutter project.
 
-## Getting Started
+### Приложение для регистрации участников по QR-коду.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Страница регистрации участников.
+![main][photo_5444905911916284018_y](https://user-images.githubusercontent.com/113469837/219963821-0cdde801-7f39-4585-bd69-dc5cd8a9aba9.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 2. Уведомление о зарегистрированном участнике.
+![notification][photo_5444905911916284020_y](https://user-images.githubusercontent.com/113469837/219963913-420e17a3-4352-45e1-8208-0225115b7c66.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 3. Перечень участников.
+![list][photo_5444905911916284019_y](https://user-images.githubusercontent.com/113469837/219963862-43c9096d-8c5b-4b67-adb7-6c3b7a4dfd88.jpg)
+
+### 4. Сообщение об ошибке при неверном QR-коде
+![error][photo_5444905911916284022_y](https://user-images.githubusercontent.com/113469837/219964129-f9e23288-33d1-4f53-93fb-2a8cef47b96e.jpg)
